@@ -1,1 +1,7 @@
+La combinación de sensores DHT11, LM35 y DS18B20 en la plataforma Nextion permite una monitorización más precisa y completa de la temperatura en diferentes entornos y aplicaciones.
 
+El DHT11 es un sensor digital de humedad y temperatura capaz de medir temperaturas entre 0°C y 50°C con una precisión de ±2°C. El LM35 es un sensor analógico de temperatura que proporciona una salida de voltaje proporcional a la temperatura en grados Celsius, con una precisión de ±0.5°C. El DS18B20 es un sensor digital de temperatura con una precisión de ±0.5°C en el rango de -10°C a +85°C.
+
+La plataforma Nextion es una interfaz de usuario que permite la visualización de datos en tiempo real y la interacción con dispositivos electrónicos de manera intuitiva y fácil de usar.
+
+Combinar estos sensores en la plataforma Nextion permite una monitorización más precisa y completa de la temperatura en tiempo real, lo que es útil en una amplia variedad de aplicaciones, desde el control de temperatura en sistemas de refrigeración y climatización, hasta la medición de temperatura en procesos industriales y experimentos científicos.
